@@ -1,6 +1,6 @@
 # User manual
 
-The software _NMR Displayer_ offersallows NMR users the possibility to open upimport their own NMR spectra, process the raw spectra, and edit the spectra.
+The software _NMR Displayer_ allows NMR users to import their NMR spectra, process the raw spectra, and edit the spectra.
 
 ## Access the program
 
@@ -9,7 +9,7 @@ https://cheminfo.github.io/nmr-displayer/
 
 The following screen (figure 1) appears, divided into three parts: the main menu on the left side of the screen, a working area in the middle of the screen, and an information area to the right side of the spectrum.
 
-!(docs\images\fig1.png)
+<img src="docs\images\fig1.png" />
 Figure 1: start screen
 
 The main menu on the left side of the screen contains general information about the program, including sample spectra and simple exercises. The work area is in the middle area  where the current spectrum is displayed. The spectrum information area is on the right side of the screen. 
