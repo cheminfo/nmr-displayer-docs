@@ -5,7 +5,7 @@ The software __NMR Displayer__ allows NMR users to import their NMR spectra, pro
 ## Access the program
 
 To access the program please follow this link:
-https://cheminfo.github.io/nmr-displayer/
+<https://cheminfo.github.io/nmr-displayer/>
 
 The following screen (figure 1) appears, divided into three parts: the main menu on the left side of the screen, a working area in the middle of the screen, and an information area to the right side of the spectrum.
 
